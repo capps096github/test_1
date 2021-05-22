@@ -12,7 +12,8 @@ printf("Lets do this together");
 
 printf("Things are getting interesting");
 
-//Xephas Brian Codes are here Copyright 2021
+//Xephas Brian Codes are here Copyright 2021 
+// We saved these images to our phone
     return 0;
 }
 
